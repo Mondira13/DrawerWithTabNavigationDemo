@@ -1,0 +1,111 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.drawerwithbottomtabbarwithpagination"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.VIBRATE" />
+13-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:5:5-65
+13-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:5:22-63
+14    <uses-permission android:name="android.permission.CAMERA" />
+14-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:6:5-65
+14-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:6:22-62
+15    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+15-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:7:5-70
+15-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:7:22-68
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:8:5-80
+16-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:8:22-77
+17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:9:5-81
+17-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:9:22-78
+18    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+18-->[com.facebook.flipper:flipper:0.75.1] /Users/hanrivertechnology/.gradle/caches/transforms-2/files-2.1/a8f6015f96666ab8d93bfe5b64998bc8/jetified-flipper-0.75.1/AndroidManifest.xml:16:5-76
+18-->[com.facebook.flipper:flipper:0.75.1] /Users/hanrivertechnology/.gradle/caches/transforms-2/files-2.1/a8f6015f96666ab8d93bfe5b64998bc8/jetified-flipper-0.75.1/AndroidManifest.xml:16:22-73
+19
+20    <uses-feature
+20-->[:react-native-camera] /Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:11:5-13:36
+21        android:name="android.hardware.camera"
+21-->[:react-native-camera] /Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:12:9-47
+22        android:required="false" />
+22-->[:react-native-camera] /Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:13:9-33
+23    <uses-feature
+23-->[:react-native-camera] /Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:14:5-16:36
+24        android:name="android.hardware.camera.autofocus"
+24-->[:react-native-camera] /Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:15:9-57
+25        android:required="false" />
+25-->[:react-native-camera] /Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:16:9-33
+26
+27    <application
+27-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:12:5-30:19
+28        android:name="com.drawerwithbottomtabbarwithpagination.MainApplication"
+28-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:13:7-38
+29        android:allowBackup="false"
+29-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:17:7-34
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.1.0] /Users/hanrivertechnology/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/AndroidManifest.xml:24:18-86
+31        android:debuggable="true"
+32        android:icon="@mipmap/ic_launcher"
+32-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:15:7-41
+33        android:label="@string/app_name"
+33-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:14:7-39
+34        android:roundIcon="@mipmap/ic_launcher_round"
+34-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:16:7-52
+35        android:theme="@style/AppTheme"
+35-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:18:7-38
+36        android:usesCleartextTraffic="true" >
+36-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/debug/AndroidManifest.xml:8:9-44
+37        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+37-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/debug/AndroidManifest.xml:11:9-86
+37-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/debug/AndroidManifest.xml:11:19-83
+38        <activity
+38-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:19:7-29:18
+39            android:name="com.drawerwithbottomtabbarwithpagination.MainActivity"
+39-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:20:9-37
+40            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+40-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:22:9-86
+41            android:label="@string/app_name"
+41-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:21:9-41
+42            android:launchMode="singleTask"
+42-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:23:9-40
+43            android:windowSoftInputMode="adjustResize" >
+43-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:24:9-51
+44            <intent-filter>
+44-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:25:9-28:25
+45                <action android:name="android.intent.action.MAIN" />
+45-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:26:13-65
+45-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:26:21-62
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:27:13-73
+47-->/Users/hanrivertechnology/Documents/MyProjects/ReactNativeProjects/DrawerWithBottomTabBarWithPagination/android/app/src/main/AndroidManifest.xml:27:23-70
+48            </intent-filter>
+49        </activity>
+50        <activity
+50-->[com.google.android.gms:play-services-base:16.0.1] /Users/hanrivertechnology/.gradle/caches/transforms-2/files-2.1/b6129a672251ce33a60ac157791ec991/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+51            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+51-->[com.google.android.gms:play-services-base:16.0.1] /Users/hanrivertechnology/.gradle/caches/transforms-2/files-2.1/b6129a672251ce33a60ac157791ec991/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+52            android:exported="false"
+52-->[com.google.android.gms:play-services-base:16.0.1] /Users/hanrivertechnology/.gradle/caches/transforms-2/files-2.1/b6129a672251ce33a60ac157791ec991/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+53            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+53-->[com.google.android.gms:play-services-base:16.0.1] /Users/hanrivertechnology/.gradle/caches/transforms-2/files-2.1/b6129a672251ce33a60ac157791ec991/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+54
+55        <meta-data
+55-->[com.google.android.gms:play-services-basement:16.1.0] /Users/hanrivertechnology/.gradle/caches/transforms-2/files-2.1/a17829b73c31063e7baad6c3cf42f728/jetified-play-services-basement-16.1.0/AndroidManifest.xml:23:9-25:69
+56            android:name="com.google.android.gms.version"
+56-->[com.google.android.gms:play-services-basement:16.1.0] /Users/hanrivertechnology/.gradle/caches/transforms-2/files-2.1/a17829b73c31063e7baad6c3cf42f728/jetified-play-services-basement-16.1.0/AndroidManifest.xml:24:13-58
+57            android:value="@integer/google_play_services_version" />
+57-->[com.google.android.gms:play-services-basement:16.1.0] /Users/hanrivertechnology/.gradle/caches/transforms-2/files-2.1/a17829b73c31063e7baad6c3cf42f728/jetified-play-services-basement-16.1.0/AndroidManifest.xml:25:13-66
+58    </application>
+59
+60</manifest>
